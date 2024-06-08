@@ -6,6 +6,9 @@ Se trata de una plataforma virtual para que los alumnos de Coder Dojo puedan reg
 ## Para usar este Projecto
 
 1. Clona este repositorio
+```bash
+https://github.com/JhonatanDczel/CoderDojo-UNSA.git
+```
 2. Crear el entorno virtual
 ```bash
 py -m venv venv
